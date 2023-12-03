@@ -13,7 +13,7 @@ The report includes details of the model building and testing process along with
 <br>
 
 ## Contact
-- Name         : Praveenkumar S
+- Name         : **Praveenkumar S**
 - Email        : praveensiva0820@gmail.com
 - LinkedIn     : www.linkedin.com/in/praveensiva77
 - GitHub Page  : https://github.com/PraveenSiva77
