@@ -11,7 +11,7 @@
 
 
 ## Copyright
-Copyright © 2023 by Praveenkumar S. All rights reserved.
+Copyright © 2023 by **Praveenkumar S**. All rights reserved.
 
 The machine learning projects - Titanic Survival Prediction, Movie Rating Prediction with Python, and Iris Flower Species Classification, along with the accompanying code and documentation, were created by **Praveenkumar S** for educational and non-commercial purposes.
 
