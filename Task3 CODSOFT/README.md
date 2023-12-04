@@ -1,4 +1,4 @@
-# CODSOFT - Task 2  ( Iris Flower Species Classification )
+# CODSOFT - Task 3  ( Iris Flower Species Classification )
 
 ## Summary
 
