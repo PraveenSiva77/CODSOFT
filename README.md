@@ -9,12 +9,16 @@
 
    +  Iris Flower Species Classification  ⇢  <a href="https://github.com/PraveenSiva77/CODSOFT/tree/9db007c41947f995a9313c4784ff579434917edb/Task3%20CODSOFT">View</a>
 
+   +  Sales Prediction using python‎  ⇢  ‎<a href="https://github.com/PraveenSiva77/CODSOFT/tree/f7c170a12fe04bc8ce8c5bd33eab931ac7140fea/Task4%20CODSOFT">View</a>
+
+   +  Credit Card Fraud Detection Project‎  ⇢  ‎<a href="https://github.com/PraveenSiva77/CODSOFT/tree/f7c170a12fe04bc8ce8c5bd33eab931ac7140fea/Task5%20CODSOFT">View</a>
+
 <br>
 
 ## Copyright
 Copyright © 2023 by **Praveenkumar S**. All rights reserved.
 
-The machine learning projects - Titanic Survival Prediction, Movie Rating Prediction with Python, and Iris Flower Species Classification, along with the accompanying code and documentation, were created by **Praveenkumar S** for educational and non-commercial purposes.
+The machine learning projects - **Titanic Survival Prediction, Movie Rating Prediction with Python, Iris Flower Species Classification, Sales Prediction using python and Credit Card Fraud Detection** along with the accompanying code and documentation, were created by **Praveenkumar S** for educational and non-commercial purposes.
 
 The analysis, methods, code, and documents pertaining to these projects are the intellectual property of **Praveenkumar S** and may not be reproduced, distributed or published without explicit permission.
 
